@@ -7,9 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# dist is required for deployment, so it should not be ignored
-# dist
-dist-ssr
+
 *.local
 
 # Editor directories and files
